@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1ef3a49a.css",
+    "main.js": "/static/js/main.3504f419.js",
+    "static/media/Shakira_-_Waka_Waka_This_Time_for_Africa__Naijamusics.com.mp3": "/static/media/Shakira_-_Waka_Waka_This_Time_for_Africa__Naijamusics.com.dbe658aad5f18420e97f.mp3",
+    "index.html": "/index.html",
+    "main.1ef3a49a.css.map": "/static/css/main.1ef3a49a.css.map",
+    "main.3504f419.js.map": "/static/js/main.3504f419.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ef3a49a.css",
+    "static/js/main.3504f419.js"
+  ]
+}
